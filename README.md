@@ -1,2 +1,4 @@
-# pandora-lib
-This is pandora specific playwright lib
+## Install
+``` bash
+npm install pandora-playwright-libs@1.2.7 --save-dev
+```
