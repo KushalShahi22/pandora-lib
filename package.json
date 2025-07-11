@@ -1,6 +1,6 @@
 {
   "name": "pandora-playwright-lib",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Library support for pandora based test automation framework for web apps",
   "main": "index.js",
   "author": "Pandora",
